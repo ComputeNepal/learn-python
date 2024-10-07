@@ -18,6 +18,7 @@ Python was created by Guido van Rossum and first released in 1991. Van Rossum be
 - **Extensive Libraries and Frameworks**: Python offers a rich set of libraries and frameworks (e.g., Pandas, Django, TensorFlow) that simplify and speed up the development process.
 - **Strong Community Support**: Python has a large and active community, which means you can easily find help, tutorials, and resources when learning or solving problems.
 - **High Demand in the Job Market**: Python is widely used in many industries, and its popularity continues to grow, leading to a high demand for Python developers and related roles.
+- **User-Friendly Built-in Data Types**: Python’s built-in data types (lists, dictionaries, sets, etc.) are versatile and easy to work with. They simplify common tasks, making your code cleaner and more readable.
 
 ## Getting Started
 
